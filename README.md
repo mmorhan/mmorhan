@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Mazlum Orhan</h1>
 <h3 align="center">A CSE Student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeedy" alt="akeedy" /></a> </p>
-
 - 🔭 I’m currently working on **a Social Media Project**
 
 - 🌱 I’m currently learning **.Net core and Typescript and React**
@@ -30,6 +26,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akeedy&" alt="akeedy" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akeedy" alt="akeedy" /></a> </p>
 
 
 ![This is an image](https://github.com/Akeedy/AKEEDY/blob/main/jim.gif)
