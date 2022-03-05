@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Mazlum Orhan</h1>
 <h3 align="center">A CSE Student from Turkey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
 
 - 🔭 I’m currently working on **a Social Media Project**
 
