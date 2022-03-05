@@ -3,15 +3,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on **a Social Media Project**
+ 🔭 I’m currently working on **a Social Media Project**
 
-- 🌱 I’m currently learning **.Net core and Typescript and React**
+🌱 I’m currently learning **.Net core and Typescript and React**
 
-- 💬 Ask me about **.Net core, HTML,CSS,JS,Java**
+ 💬 Ask me about **.Net core, HTML,CSS,JS,Java**
 
-- 📫 How to reach me **mzlmorhn@gmail.com**
+ 📫 How to reach me **mzlmorhn@gmail.com**
 
-- ⚡ Fun fact **I can talk all day long**
+⚡ Fun fact **I can talk all day long**
 </div>
 
 
