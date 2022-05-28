@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
 
 
-- 🔭 I’m currently working on **a Social Media Project**
+- 🔭 I’m currently working at ** Popcornvan **
 
 - 🌱 I’m currently learning **.Net core and Typescript and React**
  
-- 💬 Ask me about **.Net core, HTML,CSS,JS,Java**
+- 💬 Ask me about **.Net core and related Technologies, HTML,CSS,JS,Java**
 
 -  📫 How to reach me **mzlmorhn@gmail.com**
 
