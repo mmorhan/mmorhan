@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
 
 
-- 🔭 I’m currently working at **Popcornvan**
 
 - 🌱 I’m currently learning **.Net core and Typescript and React**
  
