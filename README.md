@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m   **.Net core Developer**
+- 🌱 I’m   **.Net Core Developer**
  
-- 💬 Ask me about **.Net core and related Technologies**
+- 💬 Ask me about **.Net Core and related Technologies**
 
 -  📫 How to reach me **mzlmorhn@gmail.com**
 
