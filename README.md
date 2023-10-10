@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **.Net core and Typescript and React**
+- 🌱 I’m   **.Net core Developer**
  
-- 💬 Ask me about **.Net core and related Technologies, HTML,CSS,JS,Java**
+- 💬 Ask me about **.Net core and related Technologies**
 
 -  📫 How to reach me **mzlmorhn@gmail.com**
 
