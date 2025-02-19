@@ -1,16 +1,15 @@
-<h1 align="left">Hi 👋, I'm M.Mazlum Orhan</h1>
-<h3 align="left">A CSE Student from Turkey</h3>
+<h1 align="left">It's Mazlum Orhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akeedy&label=Profile%20views&color=0e75b6&style=flat" alt="akeedy" /> </p>
 
 
 
-- 🌱 I’m   **.Net Core Developer**
+- 🌱 I’m   ** a Software Engineer**
  
-- 💬 Ask me about **.Net Core and related Technologies**
+- 💬 Focused on  ** Backend/Cloud Development **
 
 -  📫 How to reach me **mzlmorhn@gmail.com**
 
-- ⚡ Fun fact **I can talk all day long**
+
 
 
 
