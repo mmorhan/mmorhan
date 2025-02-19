@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m   ** a Software Engineer**
+- 🌱 I’m   **a Software Engineer**
  
-- 💬 Focused on  ** Backend/Cloud Development **
+- 💬 Focused on  **Backend/Cloud Development**
 
 -  📫 How to reach me **mzlmorhn@gmail.com**
 
